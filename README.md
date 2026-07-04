@@ -1,34 +1,24 @@
-# PartnerCompanyProject_02_ExploratoryDataAnalysis-EDA-
+°# PartnerCompanyProject_02_ExploratoryDataAnalysis-EDA-
 The goal of this Exploratory Data Analysis (EDA) is to understand the weekly sales behavior 
 The goal of this Exploratory Data Analysis (EDA) is to understand the weekly sales behavior of the partner company by examining:
 
-Weekly sales trends
-
-Regional sales variation
-
-Identification of high‑ and low‑rotation products
-
-Relationship between units sold and total sales value
-
-Preparing the dataset for further analysis (predictive modeling, dashboards, KPIs)
+-Weekly sales trends
+-Regional sales variation
+-Identification of high‑ and low‑rotation products
+-Relationship between units sold and total sales value
+-Preparing the dataset for further analysis (predictive modeling, dashboards, KPIs)
 
 This analysis is part of the Partner Company Project in the EBAC Data Science & Business Analytics program.
 
-🧠 Data Sources Used
+## Data Sources Used
 1. FACT_SALES.csv
-Contains transactional sales information:
-
-WEEK — Week in XX-YY format
-
-ITEM_CODE — Product code
-
-TOTAL_UNIT_SALES — Units sold
-
-TOTAL_VALUE_SALES — Total sales value
-
-TOTAL_UNIT_AVG_WEEKLY_SALES — Weekly average units sold
-
-REGION — Sales region
+-Contains transactional sales information:
+  ° WEEK — Week in XX-YY format
+  ° ITEM_CODE — Product code
+  ° TOTAL_UNIT_SALES — Units sold
+  ° TOTAL_VALUE_SALES — Total sales value
+  ° TOTAL_UNIT_AVG_WEEKLY_SALES — Weekly average units sold
+  ° REGION — Sales region
 
 2. DIM_CALENDAR.xlsx
 Calendar table with:
